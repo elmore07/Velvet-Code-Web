@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  padding-top: 80px; /* altura del navbar */
+}
+
+/* HERO */
+.hero {
+  height: 100vh;
+  background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
+              url('/IMG/velvet-arte-portada.png') center/cover;
+}
+
+/* NAVBAR */
+.navbar {
+  background-color: black; /* Red Velvet */
+}
+
+/* BOTONES */
+.btn-danger {
+  background-color: #A4161A;
+  border: none;
+}
+
+.btn-danger:hover {
+  background-color: #7B1E1E;
+}
